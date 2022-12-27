@@ -6,7 +6,7 @@ Unofficial script for installing Pterodactyl!
 
 To use the installation script run this single command as root. (First make sure you have curl by doing ' apt install curl ' and then restarting the Server)
 ```bash
-curl -Lo install.sh https://raw.githubusercontent.com/sk_Manux/Pterodactyl-Installer/main/install.sh && sudo bash install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/skManux/Pterodactyl-Installer/main/install.sh && sudo bash install.sh
 ```
 
 ## Features
